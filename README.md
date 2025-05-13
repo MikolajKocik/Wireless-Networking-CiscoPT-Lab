@@ -121,6 +121,8 @@ Aby połączyć się z siecią Wi-Fi:
 3. Wprowadź hasło WPA2-PSK.  
 4. Połącz się i sprawdź połączenie (np. ping do routera).
 
+![ping](images/PING.PNG)
+
 ---
 
 ## Wyjaśnienie: Dlaczego parametry zabezpieczeń muszą być identyczne? 
